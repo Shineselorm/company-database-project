@@ -3,8 +3,8 @@ This is a beginner-level SQL project where I designed and created a simple compa
 
 ## Project Overview
 The database contains the following key components:
-- Employee Table: Stores employee details, salaries, supervisors, and branch assignments.
-- ****Branch Table:** Manages branch information, including managers and start dates.
+- **Employee Table**: Stores employee details, salaries, supervisors, and branch assignments.
+- **Branch Table:** Manages branch information, including managers and start dates.
 - **Client Table:** Tracks client data and their assigned branches.
 - **Works_With Table**:Logs sales transactions between employees and clients.
 - **Branch Supplier Table:** Stores suppliers for each branch and supply types.
