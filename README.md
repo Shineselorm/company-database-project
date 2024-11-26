@@ -29,4 +29,3 @@ The database contains the following key components:
 - Practice creating and managing relational databases.
 - Understand primary keys, foreign keys, and their role in database design.
 - Write basic to intermediate SQL queries to analyze and interact with data.
-# student-streak-analysis-with-sql
